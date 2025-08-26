@@ -46,13 +46,9 @@ We envision a future where freight logistics operates on a completely decentrali
 - **Enterprise Solutions**: White-label solutions for large logistics companies
 
 ## Contract Address Details
-
+ Contract ID : 
 **Contract Name:** FreightMatching Hub  
 **Blockchain:** Stacks  
-**Contract Address:** [To be added after deployment]  
-**Deployer Address:** [To be added after deployment]  
-**Deployment Date:** [To be added after deployment]  
-**Network:** [Mainnet/Testnet - To be specified]  
 
 ### Contract Functions
 - `post-freight-load`: Create new freight load listings
