@@ -50,6 +50,7 @@ We envision a future where freight logistics operates on a completely decentrali
 **Contract Name:** FreightMatching Hub  
 **Blockchain:** Stacks  
 
+
 ### Contract Functions
 - `post-freight-load`: Create new freight load listings
 - `place-bid-and-match`: Submit bids with automatic matching capability
