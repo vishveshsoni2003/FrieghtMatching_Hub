@@ -46,7 +46,7 @@ We envision a future where freight logistics operates on a completely decentrali
 - **Enterprise Solutions**: White-label solutions for large logistics companies
 
 ## Contract Address Details
- Contract ID : 
+ Contract ID : ST28E86NRA46QFEY272KMG3NS9EFPYYNWNWBJSKGP.FreightMatching_Hub
 **Contract Name:** FreightMatching Hub  
 **Blockchain:** Stacks  
 
@@ -59,3 +59,5 @@ We envision a future where freight logistics operates on a completely decentrali
 - Transparent bidding process stored on-chain  
 - Immutable load and bid tracking
 - Real-time status updates
+
+  <img width="1902" height="849" alt="image" src="https://github.com/user-attachments/assets/29ff06d4-bb01-4bf9-812e-d53dc10a94e1" />
